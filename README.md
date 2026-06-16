@@ -16,6 +16,8 @@ arrays.
 
 *A fast and hackable meta-tensor library in Python*
 
+Aesara's codebase includes type annotations to make the project easier to understand and navigate.
+
 [Features](#features) •
 [Get Started](#get-started) •
 [Install](#install) •
